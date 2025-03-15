@@ -1,7 +1,8 @@
 .hero-section {
-    background: url('vendor/images/hero-bg.jpg') center/cover no-repeat;
+    background: url('https://i.postimg.cc/8sgCn9cH/pexels-pixabay-325876.jpg') center/cover no-repeat;
     height: 100vh;
-}
+  }
+  
 
 .portfolio-item {
     position: relative;
